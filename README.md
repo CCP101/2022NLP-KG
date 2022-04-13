@@ -12,7 +12,7 @@
 - [x] 4.4(KG)      INDUCTIVE KNOWLEDGE
 - [x] 4.6(NLP)    问答系统
 - [x] 4.6(KG)      CREATION AND ENRICHMENT
-- [ ] 4.11(NLP)  对话系统
+- [x] 4.11(NLP)  对话系统
 - [x] 4.11(KG)    QUALITY ASSESSMENT
 - [ ] 4.13(NLP)  对话系统
 - [ ] 4.13(KG)    REFINEMENT
