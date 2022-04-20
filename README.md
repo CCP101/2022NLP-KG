@@ -18,5 +18,5 @@
 - [x] 4.13(KG)    REFINEMENT
 - [x] 4.18(NLP)  机器翻译
 - [x] 4.18(KG)    PUBLICATION
-- [ ] 4.20(NLP)  机器翻译
+- [x] 4.20(NLP)  机器翻译
 - [ ] 4.20(KG)    KNOWLEDGE GRAPHS IN PRACTICE
