@@ -16,7 +16,7 @@
 - [x] 4.11(KG)    QUALITY ASSESSMENT
 - [x] 4.13(NLP)  对话系统
 - [x] 4.13(KG)    REFINEMENT
-- [ ] 4.18(NLP)  机器翻译
+- [x] 4.18(NLP)  机器翻译
 - [x] 4.18(KG)    PUBLICATION
 - [ ] 4.20(NLP)  机器翻译
 - [ ] 4.20(KG)    KNOWLEDGE GRAPHS IN PRACTICE
